@@ -202,7 +202,7 @@ songs.forEach(element => {
                                 ${songName}
                             </div>
     `;
-    search_results.appendChild(card)
+    search_results.appendChild(card);
 });
 
 
